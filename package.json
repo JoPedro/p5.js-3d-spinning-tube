@@ -1,0 +1,32 @@
+{
+  "name": "p5.js-3d-spintube-visualizer",
+  "version": "1.0.0",
+  "description": "3D Sound visualizer with a spinning tube using p5.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoPedro/p5.js-3d-spintube-visualizer.git"
+  },
+  "keywords": [
+    "3D",
+    "p5.js",
+    "javascript",
+    "js"
+  ],
+  "author": "João Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoPedro/p5.js-3d-spintube-visualizer/issues"
+  },
+  "homepage": "https://github.com/JoPedro/p5.js-3d-spintube-visualizer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
